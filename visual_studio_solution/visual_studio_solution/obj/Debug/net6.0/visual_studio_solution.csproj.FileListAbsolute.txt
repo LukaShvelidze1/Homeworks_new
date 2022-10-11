@@ -1,0 +1,15 @@
+/Users/lukashvelidze/Desktop/HomeWorks/Homework2/visual_studio_solution/visual_studio_solution/obj/Debug/net6.0/visual_studio_solution.csproj.AssemblyReference.cache
+/Users/lukashvelidze/Desktop/HomeWorks/Homework2/visual_studio_solution/visual_studio_solution/obj/Debug/net6.0/visual_studio_solution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukashvelidze/Desktop/HomeWorks/Homework2/visual_studio_solution/visual_studio_solution/obj/Debug/net6.0/visual_studio_solution.AssemblyInfoInputs.cache
+/Users/lukashvelidze/Desktop/HomeWorks/Homework2/visual_studio_solution/visual_studio_solution/obj/Debug/net6.0/visual_studio_solution.AssemblyInfo.cs
+/Users/lukashvelidze/Desktop/HomeWorks/Homework2/visual_studio_solution/visual_studio_solution/obj/Debug/net6.0/visual_studio_solution.csproj.CoreCompileInputs.cache
+/Users/lukashvelidze/Desktop/HomeWorks/Homework2/visual_studio_solution/visual_studio_solution/bin/Debug/net6.0/visual_studio_solution
+/Users/lukashvelidze/Desktop/HomeWorks/Homework2/visual_studio_solution/visual_studio_solution/bin/Debug/net6.0/visual_studio_solution.deps.json
+/Users/lukashvelidze/Desktop/HomeWorks/Homework2/visual_studio_solution/visual_studio_solution/bin/Debug/net6.0/visual_studio_solution.runtimeconfig.json
+/Users/lukashvelidze/Desktop/HomeWorks/Homework2/visual_studio_solution/visual_studio_solution/bin/Debug/net6.0/visual_studio_solution.dll
+/Users/lukashvelidze/Desktop/HomeWorks/Homework2/visual_studio_solution/visual_studio_solution/bin/Debug/net6.0/visual_studio_solution.pdb
+/Users/lukashvelidze/Desktop/HomeWorks/Homework2/visual_studio_solution/visual_studio_solution/obj/Debug/net6.0/visual_studio_solution.dll
+/Users/lukashvelidze/Desktop/HomeWorks/Homework2/visual_studio_solution/visual_studio_solution/obj/Debug/net6.0/refint/visual_studio_solution.dll
+/Users/lukashvelidze/Desktop/HomeWorks/Homework2/visual_studio_solution/visual_studio_solution/obj/Debug/net6.0/visual_studio_solution.pdb
+/Users/lukashvelidze/Desktop/HomeWorks/Homework2/visual_studio_solution/visual_studio_solution/obj/Debug/net6.0/visual_studio_solution.genruntimeconfig.cache
+/Users/lukashvelidze/Desktop/HomeWorks/Homework2/visual_studio_solution/visual_studio_solution/obj/Debug/net6.0/ref/visual_studio_solution.dll
