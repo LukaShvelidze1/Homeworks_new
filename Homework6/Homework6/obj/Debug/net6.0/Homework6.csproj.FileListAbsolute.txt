@@ -1,0 +1,15 @@
+/Users/lukashvelidze/Desktop/Homeworks_new/Homework6/Homework6/bin/Debug/net6.0/Homework6
+/Users/lukashvelidze/Desktop/Homeworks_new/Homework6/Homework6/bin/Debug/net6.0/Homework6.deps.json
+/Users/lukashvelidze/Desktop/Homeworks_new/Homework6/Homework6/bin/Debug/net6.0/Homework6.runtimeconfig.json
+/Users/lukashvelidze/Desktop/Homeworks_new/Homework6/Homework6/bin/Debug/net6.0/Homework6.dll
+/Users/lukashvelidze/Desktop/Homeworks_new/Homework6/Homework6/bin/Debug/net6.0/Homework6.pdb
+/Users/lukashvelidze/Desktop/Homeworks_new/Homework6/Homework6/obj/Debug/net6.0/Homework6.csproj.AssemblyReference.cache
+/Users/lukashvelidze/Desktop/Homeworks_new/Homework6/Homework6/obj/Debug/net6.0/Homework6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukashvelidze/Desktop/Homeworks_new/Homework6/Homework6/obj/Debug/net6.0/Homework6.AssemblyInfoInputs.cache
+/Users/lukashvelidze/Desktop/Homeworks_new/Homework6/Homework6/obj/Debug/net6.0/Homework6.AssemblyInfo.cs
+/Users/lukashvelidze/Desktop/Homeworks_new/Homework6/Homework6/obj/Debug/net6.0/Homework6.csproj.CoreCompileInputs.cache
+/Users/lukashvelidze/Desktop/Homeworks_new/Homework6/Homework6/obj/Debug/net6.0/Homework6.dll
+/Users/lukashvelidze/Desktop/Homeworks_new/Homework6/Homework6/obj/Debug/net6.0/refint/Homework6.dll
+/Users/lukashvelidze/Desktop/Homeworks_new/Homework6/Homework6/obj/Debug/net6.0/Homework6.pdb
+/Users/lukashvelidze/Desktop/Homeworks_new/Homework6/Homework6/obj/Debug/net6.0/Homework6.genruntimeconfig.cache
+/Users/lukashvelidze/Desktop/Homeworks_new/Homework6/Homework6/obj/Debug/net6.0/ref/Homework6.dll
