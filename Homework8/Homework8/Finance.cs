@@ -36,6 +36,7 @@ public class Bank : FinanceOperations
         }
         
         
+        
     }
 }
 
@@ -43,7 +44,7 @@ public class MicroFinance : FinanceOperations
 {
     public void CalculateLoanPercent(int month, double AmountPerMonth)
     {
-        var total = (month * AmountPerMonth) * 0.1;
+        var total = (month * AmountPerMonth) + (month * AmountPerMonth) * 0.1;
     }
 
     public void CheckUserHistory()
