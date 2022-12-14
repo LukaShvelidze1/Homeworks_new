@@ -1,0 +1,7 @@
+C:\Users\Geekster PC\Desktop\Homeworks_new\final_API\final_API\obj\Debug\net6.0\final_API.csproj.AssemblyReference.cache
+C:\Users\Geekster PC\Desktop\Homeworks_new\final_API\final_API\obj\Debug\net6.0\final_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geekster PC\Desktop\Homeworks_new\final_API\final_API\obj\Debug\net6.0\final_API.AssemblyInfoInputs.cache
+C:\Users\Geekster PC\Desktop\Homeworks_new\final_API\final_API\obj\Debug\net6.0\final_API.AssemblyInfo.cs
+C:\Users\Geekster PC\Desktop\Homeworks_new\final_API\final_API\obj\Debug\net6.0\final_API.csproj.CoreCompileInputs.cache
+C:\Users\Geekster PC\Desktop\Homeworks_new\final_API\final_API\obj\Debug\net6.0\final_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Geekster PC\Desktop\Homeworks_new\final_API\final_API\obj\Debug\net6.0\final_API.MvcApplicationPartsAssemblyInfo.cache
