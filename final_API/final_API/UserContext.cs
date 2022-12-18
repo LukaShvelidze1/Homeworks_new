@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using final_API.Classes;
+using Microsoft.EntityFrameworkCore;
 
 namespace final_API
 {
@@ -10,7 +11,7 @@ namespace final_API
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(
-                "Server=.; Database=Loan_Final; Trusted_Connection=true; MultipleActiveResultSets=True");
+                "Server=.; Database=Loan_Final; Trusted_Connection=true; MultipleActiveResultSets=True; encrypt=false");
         }
     }
 }

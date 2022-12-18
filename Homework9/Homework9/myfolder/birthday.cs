@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Homework9.myfolder
 {
-    internal class Class1
+    public class birthday
     {
+        public string CurrentDate { get; set; }
+
+        public string Birthday { get; set; }
+
     }
 }

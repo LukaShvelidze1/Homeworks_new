@@ -11,27 +11,28 @@
 
 
 //Problem #2----
-//List<char> listOfChars = new List<char>();
+List<char> listOfChars = new List<char>();
 
 
-//for(int i = 0; i < 4; i++)
-//{
-//    listOfChars.Add(Convert.ToChar(Console.ReadLine()));
-//}
+for (int i = 0; i < 4; i++)
+{
+    listOfChars.Add(Convert.ToChar(Console.ReadLine()));
+}
 
-//var first = listOfChars.First();
+var first = listOfChars.First();
 
-//for (int i = 1; i < listOfChars.Count; i++)
-//{
-//    if (first == listOfChars[i]) 
-//    {
-//        Console.WriteLine("JACKPOT");
-//    }
-//    else
-//    {
-//        Console.WriteLine("NO");
-//    }
-//}
+for (int i = 1; i < listOfChars.Count; i++)
+{
+    if (listOfChars[i] != first )
+    {
+        Console.WriteLine("NO JACKPOT");
+        break;
+    }
+    else
+    {
+        Console.WriteLine("JACKPOT");
+    }
+}
 
 
 //Problem #3 ----
@@ -50,38 +51,38 @@
 
 //Problem #4----
 
-List<int> hoursWorked = new List<int>();
+//List<int> hoursWorked = new List<int>();
 
-for (int i = 0; i < 7; i++)
-{
-    hoursWorked.Add(Convert.ToInt32(Console.ReadLine()));
-}
+//for (int i = 0; i < 7; i++)
+//{
+//    hoursWorked.Add(Convert.ToInt32(Console.ReadLine()));
+//}
 
-var overtime = 0;
-var overtimeSum = 0;
-var normalTime = 0;
-var normalTimeSum = 0;
+//var overtime = 0;
+//var overtimeSum = 0;
+//var normalTime = 0;
+//var normalTimeSum = 0;
 
-for (int i = 0; i < 5; i++)
-{
-    if (hoursWorked[i] <= 8)
-    {
-        normalTime = hoursWorked[i] * 10;
-        normalTimeSum = normalTime * 5;
-    }
+//for (int i = 0; i < 5; i++)
+//{
+//    if (hoursWorked[i] <= 8)
+//    {
+//        normalTime = hoursWorked[i] * 10;
+//        normalTimeSum = normalTime * 5;
+//    }
 
-    else if (hoursWorked[i] > 8)
-    {
-        overtime = (hoursWorked[i] - 8) * 15;
-        
-        
-    }
-    
-}
+//    else if (hoursWorked[i] > 8)
+//    {
+//        overtime = (hoursWorked[i] - 8) * 15;
 
-var final = normalTimeSum + overtimeSum;
 
-Console.WriteLine(final);
+//    }
+
+//}
+
+//var final = normalTimeSum + overtimeSum;
+
+//Console.WriteLine(final);
 
 
 
